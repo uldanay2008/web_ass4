@@ -10,7 +10,7 @@ A responsive beauty studio website developed using HTML5, CSS3, Media Queries, a
 Winx Studio is a multi-page web application dedicated to beauty tips, cosmetics, makeup styles, and consultations. In this assignment, the project was updated with CSS Media Queries for fluid typography/layouts and integrated with Bootstrap 5 components (Grid System, Responsive Navbar, Carousel, Cards, Forms, Buttons, and Utilities).
 
 ## Live Demo
-- **URL:** [https://uldanay2008.github.io/web_ass3/](https://uldanay2008.github.io/web_ass3/)
+- **URL:** [https://uldanay2008.github.io/web_ass4/](https://uldanay2008.github.io/web_ass4/)
 ## Pages Included
 1. **Home (`index.html`)** — Hero section, introduction, and responsive navigation cards.
 2. **Makeup (`makeup.html`)** — Grid-based catalog of popular makeup styles, step-by-step guides, and tips.
